@@ -11,7 +11,13 @@ const Content = ({
 }) => {
   return (
     <div className={`content__container ${variant}`}>
-      <img className="about__img" src={image} alt={`Imagem ${title}`} />
+      <img
+        className={`about__img ${
+          variant === "product-left" ? "img-left" : "img-right"
+        }`}
+        src={image}
+        alt={`Imagem ${title}`}
+      />
 
       <div className="content__text">
         <h3 className="content__title">{title}</h3>

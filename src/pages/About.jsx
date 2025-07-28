@@ -30,7 +30,7 @@ const About = () => {
       {imagesArray
         .filter((item) => [7].includes(item.id))
         .map((item) => (
-          <Content key={item.id} image={item.image} />
+          <Content key={item.id} image={item.image} variant="about" />
         ))}
     </div>
   );

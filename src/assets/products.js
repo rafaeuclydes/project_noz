@@ -94,7 +94,7 @@ export const imagesArray = [
     description: [
       "Um presente saudável, bonito e cheio de significado.",
       "Nossa box foi pensada para quem quer oferecer mais do que um mimo: um gesto de cuidado, sabor e consciência.",
-      "Ela vem com duas granolas em vidro — uma doce (150g) e uma salgada (100g) — dentro de uma embalagem charmosa e reutilizável, pronta pra encantar. Ideal para aniversários, agradecimentos, datas especiais ou simplesmente para dizer: 'lembrei de você com carinho'.",
+      "Ela vem com duas granolas em vidro, uma doce (150g) e uma salgada (100g), dentro de uma embalagem charmosa e reutilizável, pronta pra encantar. Ideal para aniversários, agradecimentos, datas especiais ou simplesmente para dizer: 'Lembrei de você com carinho'.",
       "E como tudo na Noz, é claro: plástico zero e coração cheio.",
     ],
     size: "Doce 150G - R$ 28,00",
